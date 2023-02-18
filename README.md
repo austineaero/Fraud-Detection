@@ -9,6 +9,6 @@ The machine learning algorithm - XGBClassifier - was selected for this project. 
 
 ![cm](https://user-images.githubusercontent.com/66695888/219818292-0b27ae50-ea4c-4772-b75d-d4946dcdd89d.png)
 
-While the number of false positives (FP) is relatively low (i.e. 2), the number of false negatives (FN) is high (i.e. 19) which means those fraudulent activities would have passed through the system. This will most likely resort to loss of money, loss of customers or a negative customer experience. 
+While the number of false positives (FP) is relatively low (i.e. 2), the number of false negatives (FN) is high (i.e. 19) which means those fraudulent activities would have passed through the system. This will most likely lead to loss of money, loss of customers or a negative customer experience. 
 
 Therefore, future work will focus on trying to reduce the number of FN without overfitting the data using a deep learning model.
